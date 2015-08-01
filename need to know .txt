@@ -1,0 +1,20 @@
+ESB  SSO  Redis   greendao vollay
+
+
+Universal-Image-Loader  图片库
+greendao volley  一个数据库的第三方引用  一个访问网络的库
+
+
+fragment 的replace和add方法的异同有什么区别 
+
+
+根view 其实是一个decorview 设置背景直接设置decorview的背景色，没有必要再设置其附着在上面的background的颜色，这也是优化的一个建议 。。。。
+
+ 
+
+
+Octopress
+
+
+
+我认为应当使用正确的工具去做有价值的事情，并把效率最大化，所以我会用Eclipse编写Java项目，用Vim编写Shell，用Sublime Text编写JavaScript/HTML/Python，用Visual Studio编写C#。
